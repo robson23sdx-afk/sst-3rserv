@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "App SST 3R SERV"
+git branch -M main
+git remote add origin https://github.com/robson23sdx-afk/sst-3rserv.git
+git push -u origin main
